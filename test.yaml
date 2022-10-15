@@ -1,0 +1,23 @@
+name: Ali
+age: 16
+sex: true
+address: 'pop:puff'
+object:
+    key: pair
+    key1: 25
+    key2:
+        keyA: value
+        keyB: value
+array:
+    - item1
+    - item2
+arrayObject:
+    - arrA: value
+      key: 0
+      keyC: 1
+    - arrB: value
+      key: 9
+longText: |
+    kfjijso fowokfwokowkfof ofwofwjojfw 
+    jokwojwfokowfoj wojfjojeojkwfknv 
+    ofwjojwojowfjowf
